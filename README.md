@@ -13,7 +13,6 @@ Powershell Modules:
 Recommended
     Powershell Modules:
     Microsoft.Graph.Authentication
-    Microsoft.Graph.Identity.DirectoryManagement
     
 Microsoft Garph application needs AuditLog.Read.All and Directory.Read.All permissions on Entra ID tenant
 
